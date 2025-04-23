@@ -35,5 +35,5 @@ The primary objective of this project is to evaluate the impact of promotional s
 
 1. Clone the repository or download the Jupyter notebook:
    ```bash
-   git clone https://github.com/yourusername/promotion-effectiveness-analyzer.git
+   git clone https://github.com/dotewa/promotion-effectiveness-analyzer.git
 
